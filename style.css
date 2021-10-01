@@ -3,7 +3,7 @@ body
     text-align: center;
 }
 #welcome {
-    color: #FFFFFF;
+    color: #225 ;
     bottom: 0;
     background: linear-gradient(#60ebeb 0%, #27ae60 100%);
     display: table;
@@ -24,13 +24,13 @@ h1 {
 
 .line {
     height: 6px;
-    background-color: turquoise;
+    background-color: #40E0D0 ;
     width: 70px;
     margin: 8px auto;
 }
 #contact iframe
 {
-    background-color: turquoise;
+    background-color: ;
     width: 100%;
 }
 .contact_1 h3
@@ -45,12 +45,12 @@ h1 {
 
 #videos iframe
 {
-    background-color: turquoise;
+    background-color: #40E0D0 ; 
     width: 80%;
 }
 
 
 input
 {
-    background: turquoise ;
+    background: #40E0D0 ;   
 }
